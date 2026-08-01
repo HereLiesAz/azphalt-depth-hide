@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Hides the text wherever the depth map says something is in front of it, so captions pass behind people and objects instead of over them.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
